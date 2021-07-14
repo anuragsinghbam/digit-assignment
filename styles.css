@@ -27,6 +27,7 @@ body {
 .navbar {
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.15);
   color: #fff;
+  background-color: #fff;
   padding: 0.25em 0;
   position: sticky;
   top: 0;
